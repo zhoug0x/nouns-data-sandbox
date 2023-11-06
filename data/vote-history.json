@@ -1,0 +1,3606 @@
+{
+  "noun": {
+    "id": "0",
+    "votes": [
+      {
+        "blockNumber": "13083370",
+        "proposal": {
+          "id": "1",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13398093",
+        "proposal": {
+          "id": "10",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15135086",
+        "proposal": {
+          "id": "107",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15143765",
+        "proposal": {
+          "id": "108",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15143770",
+        "proposal": {
+          "id": "109",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13411168",
+        "proposal": {
+          "id": "11",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15143773",
+        "proposal": {
+          "id": "110",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15161049",
+        "proposal": {
+          "id": "111",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15168701",
+        "proposal": {
+          "id": "112",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15168706",
+        "proposal": {
+          "id": "113",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15168706",
+        "proposal": {
+          "id": "114",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15212960",
+        "proposal": {
+          "id": "116",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15251546",
+        "proposal": {
+          "id": "118",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15251546",
+        "proposal": {
+          "id": "119",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13474863",
+        "proposal": {
+          "id": "12",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15251546",
+        "proposal": {
+          "id": "120",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15251546",
+        "proposal": {
+          "id": "121",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15251546",
+        "proposal": {
+          "id": "122",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15270453",
+        "proposal": {
+          "id": "123",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15270453",
+        "proposal": {
+          "id": "124",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15271496",
+        "proposal": {
+          "id": "125",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15308538",
+        "proposal": {
+          "id": "126",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15391995",
+        "proposal": {
+          "id": "132",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15397681",
+        "proposal": {
+          "id": "133",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15478752",
+        "proposal": {
+          "id": "134",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15478752",
+        "proposal": {
+          "id": "135",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15478752",
+        "proposal": {
+          "id": "136",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15518069",
+        "proposal": {
+          "id": "137",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15518069",
+        "proposal": {
+          "id": "138",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13524787",
+        "proposal": {
+          "id": "14",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15553863",
+        "proposal": {
+          "id": "140",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15554956",
+        "proposal": {
+          "id": "141",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15582559",
+        "proposal": {
+          "id": "142",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15583018",
+        "proposal": {
+          "id": "143",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15650162",
+        "proposal": {
+          "id": "144",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15650166",
+        "proposal": {
+          "id": "145",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15664852",
+        "proposal": {
+          "id": "147",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13577602",
+        "proposal": {
+          "id": "15",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15699041",
+        "proposal": {
+          "id": "150",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15697591",
+        "proposal": {
+          "id": "151",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15744862",
+        "proposal": {
+          "id": "152",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15778563",
+        "proposal": {
+          "id": "154",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15797042",
+        "proposal": {
+          "id": "155",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15797046",
+        "proposal": {
+          "id": "156",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13577609",
+        "proposal": {
+          "id": "16",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15819279",
+        "proposal": {
+          "id": "161",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15819284",
+        "proposal": {
+          "id": "162",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13641158",
+        "proposal": {
+          "id": "17",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13641167",
+        "proposal": {
+          "id": "18",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13678256",
+        "proposal": {
+          "id": "19",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13117159",
+        "proposal": {
+          "id": "2",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13696685",
+        "proposal": {
+          "id": "20",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13705551",
+        "proposal": {
+          "id": "21",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13712454",
+        "proposal": {
+          "id": "22",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13743917",
+        "proposal": {
+          "id": "23",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13753604",
+        "proposal": {
+          "id": "24",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13753626",
+        "proposal": {
+          "id": "25",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13762192",
+        "proposal": {
+          "id": "26",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13778325",
+        "proposal": {
+          "id": "27",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13824494",
+        "proposal": {
+          "id": "28",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13888889",
+        "proposal": {
+          "id": "29",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13169263",
+        "proposal": {
+          "id": "3",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13915381",
+        "proposal": {
+          "id": "30",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13967242",
+        "proposal": {
+          "id": "31",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13967251",
+        "proposal": {
+          "id": "32",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13999493",
+        "proposal": {
+          "id": "33",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14004431",
+        "proposal": {
+          "id": "34",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14090341",
+        "proposal": {
+          "id": "36",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14160368",
+        "proposal": {
+          "id": "37",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14214112",
+        "proposal": {
+          "id": "38",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14226761",
+        "proposal": {
+          "id": "39",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13182019",
+        "proposal": {
+          "id": "4",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14298555",
+        "proposal": {
+          "id": "40",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14348571",
+        "proposal": {
+          "id": "42",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14385655",
+        "proposal": {
+          "id": "43",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14430483",
+        "proposal": {
+          "id": "44",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14469963",
+        "proposal": {
+          "id": "45",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14470322",
+        "proposal": {
+          "id": "46",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14526703",
+        "proposal": {
+          "id": "48",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14526815",
+        "proposal": {
+          "id": "49",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13257043",
+        "proposal": {
+          "id": "5",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14578273",
+        "proposal": {
+          "id": "52",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14578293",
+        "proposal": {
+          "id": "53",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14610111",
+        "proposal": {
+          "id": "57",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14610431",
+        "proposal": {
+          "id": "58",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14610457",
+        "proposal": {
+          "id": "59",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13271922",
+        "proposal": {
+          "id": "6",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14625145",
+        "proposal": {
+          "id": "60",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14625150",
+        "proposal": {
+          "id": "61",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14641786",
+        "proposal": {
+          "id": "62",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14661533",
+        "proposal": {
+          "id": "63",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14661566",
+        "proposal": {
+          "id": "64",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14661696",
+        "proposal": {
+          "id": "65",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14661731",
+        "proposal": {
+          "id": "67",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14682603",
+        "proposal": {
+          "id": "68",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14682628",
+        "proposal": {
+          "id": "69",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14737206",
+        "proposal": {
+          "id": "71",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14745788",
+        "proposal": {
+          "id": "72",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14757836",
+        "proposal": {
+          "id": "73",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14789698",
+        "proposal": {
+          "id": "75",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14811695",
+        "proposal": {
+          "id": "77",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14817961",
+        "proposal": {
+          "id": "78",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13316579",
+        "proposal": {
+          "id": "8",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14824889",
+        "proposal": {
+          "id": "81",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14824900",
+        "proposal": {
+          "id": "82",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14833234",
+        "proposal": {
+          "id": "83",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14881919",
+        "proposal": {
+          "id": "85",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14899076",
+        "proposal": {
+          "id": "87",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14929840",
+        "proposal": {
+          "id": "89",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "13350736",
+        "proposal": {
+          "id": "9",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14939681",
+        "proposal": {
+          "id": "90",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14939697",
+        "proposal": {
+          "id": "91",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14939690",
+        "proposal": {
+          "id": "92",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14959499",
+        "proposal": {
+          "id": "93",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "14963357",
+        "proposal": {
+          "id": "95",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15009510",
+        "proposal": {
+          "id": "97",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15834854",
+        "proposal": {
+          "id": "163",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15849626",
+        "proposal": {
+          "id": "164",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15851110",
+        "proposal": {
+          "id": "165",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15863077",
+        "proposal": {
+          "id": "166",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15921113",
+        "proposal": {
+          "id": "167",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15947966",
+        "proposal": {
+          "id": "168",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15969841",
+        "proposal": {
+          "id": "169",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16019966",
+        "proposal": {
+          "id": "171",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "15999936",
+        "proposal": {
+          "id": "172",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16028939",
+        "proposal": {
+          "id": "173",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16058905",
+        "proposal": {
+          "id": "174",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16083887",
+        "proposal": {
+          "id": "175",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16108960",
+        "proposal": {
+          "id": "177",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16148137",
+        "proposal": {
+          "id": "178",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16127067",
+        "proposal": {
+          "id": "179",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16127067",
+        "proposal": {
+          "id": "180",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16170913",
+        "proposal": {
+          "id": "182",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16149922",
+        "proposal": {
+          "id": "183",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16155884",
+        "proposal": {
+          "id": "184",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16169207",
+        "proposal": {
+          "id": "185",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16223151",
+        "proposal": {
+          "id": "188",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16223165",
+        "proposal": {
+          "id": "189",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16234103",
+        "proposal": {
+          "id": "190",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16240765",
+        "proposal": {
+          "id": "191",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16234143",
+        "proposal": {
+          "id": "192",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16234178",
+        "proposal": {
+          "id": "193",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16234207",
+        "proposal": {
+          "id": "194",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16241744",
+        "proposal": {
+          "id": "195",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16242317",
+        "proposal": {
+          "id": "196",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16285826",
+        "proposal": {
+          "id": "197",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16334852",
+        "proposal": {
+          "id": "198",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16351477",
+        "proposal": {
+          "id": "199",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16348347",
+        "proposal": {
+          "id": "200",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16366219",
+        "proposal": {
+          "id": "201",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16419626",
+        "proposal": {
+          "id": "202",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16419629",
+        "proposal": {
+          "id": "203",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16419632",
+        "proposal": {
+          "id": "204",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16419637",
+        "proposal": {
+          "id": "205",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16443506",
+        "proposal": {
+          "id": "206",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16436282",
+        "proposal": {
+          "id": "207",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16480109",
+        "proposal": {
+          "id": "208",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16449330",
+        "proposal": {
+          "id": "209",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16462344",
+        "proposal": {
+          "id": "210",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16477168",
+        "proposal": {
+          "id": "211",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16484942",
+        "proposal": {
+          "id": "215",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16481262",
+        "proposal": {
+          "id": "216",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16529874",
+        "proposal": {
+          "id": "218",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16566069",
+        "proposal": {
+          "id": "221",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16566073",
+        "proposal": {
+          "id": "222",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16613600",
+        "proposal": {
+          "id": "226",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16581340",
+        "proposal": {
+          "id": "227",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16629606",
+        "proposal": {
+          "id": "228",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16635406",
+        "proposal": {
+          "id": "229",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16628473",
+        "proposal": {
+          "id": "231",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16628671",
+        "proposal": {
+          "id": "232",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16628427",
+        "proposal": {
+          "id": "236",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16628431",
+        "proposal": {
+          "id": "237",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16666446",
+        "proposal": {
+          "id": "238",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16757476",
+        "proposal": {
+          "id": "240",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16751494",
+        "proposal": {
+          "id": "241",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16771642",
+        "proposal": {
+          "id": "242",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16778687",
+        "proposal": {
+          "id": "244",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16778692",
+        "proposal": {
+          "id": "245",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16821509",
+        "proposal": {
+          "id": "248",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16822031",
+        "proposal": {
+          "id": "249",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16900589",
+        "proposal": {
+          "id": "250",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16890673",
+        "proposal": {
+          "id": "252",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16890675",
+        "proposal": {
+          "id": "253",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16890679",
+        "proposal": {
+          "id": "254",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16918905",
+        "proposal": {
+          "id": "256",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16918911",
+        "proposal": {
+          "id": "257",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16947794",
+        "proposal": {
+          "id": "258",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16969379",
+        "proposal": {
+          "id": "259",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16976136",
+        "proposal": {
+          "id": "260",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17004344",
+        "proposal": {
+          "id": "261",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "16982976",
+        "proposal": {
+          "id": "262",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17004349",
+        "proposal": {
+          "id": "263",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17004359",
+        "proposal": {
+          "id": "264",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17032224",
+        "proposal": {
+          "id": "265",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17073934",
+        "proposal": {
+          "id": "266",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17075965",
+        "proposal": {
+          "id": "268",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17109201",
+        "proposal": {
+          "id": "269",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17127406",
+        "proposal": {
+          "id": "270",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17161372",
+        "proposal": {
+          "id": "271",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17161375",
+        "proposal": {
+          "id": "272",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17161555",
+        "proposal": {
+          "id": "274",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17177268",
+        "proposal": {
+          "id": "276",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17177272",
+        "proposal": {
+          "id": "277",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17177274",
+        "proposal": {
+          "id": "278",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17209171",
+        "proposal": {
+          "id": "279",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17220068",
+        "proposal": {
+          "id": "282",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17224764",
+        "proposal": {
+          "id": "284",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17266109",
+        "proposal": {
+          "id": "285",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17266117",
+        "proposal": {
+          "id": "286",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17266122",
+        "proposal": {
+          "id": "287",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17266126",
+        "proposal": {
+          "id": "288",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17266141",
+        "proposal": {
+          "id": "289",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17280412",
+        "proposal": {
+          "id": "291",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17280417",
+        "proposal": {
+          "id": "292",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17345940",
+        "proposal": {
+          "id": "295",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17345940",
+        "proposal": {
+          "id": "296",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17345940",
+        "proposal": {
+          "id": "297",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17404835",
+        "proposal": {
+          "id": "298",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17404839",
+        "proposal": {
+          "id": "299",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17404847",
+        "proposal": {
+          "id": "300",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17428463",
+        "proposal": {
+          "id": "301",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17428465",
+        "proposal": {
+          "id": "302",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17443475",
+        "proposal": {
+          "id": "303",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17472379",
+        "proposal": {
+          "id": "304",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17472463",
+        "proposal": {
+          "id": "306",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17506986",
+        "proposal": {
+          "id": "307",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17542778",
+        "proposal": {
+          "id": "310",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17542796",
+        "proposal": {
+          "id": "311",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17542798",
+        "proposal": {
+          "id": "312",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17542802",
+        "proposal": {
+          "id": "313",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17564859",
+        "proposal": {
+          "id": "314",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17573037",
+        "proposal": {
+          "id": "316",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17579924",
+        "proposal": {
+          "id": "317",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17643077",
+        "proposal": {
+          "id": "319",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17656000",
+        "proposal": {
+          "id": "320",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17656005",
+        "proposal": {
+          "id": "322",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17656008",
+        "proposal": {
+          "id": "323",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17670972",
+        "proposal": {
+          "id": "326",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17692733",
+        "proposal": {
+          "id": "328",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17748647",
+        "proposal": {
+          "id": "331",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 2,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17748655",
+        "proposal": {
+          "id": "334",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17748660",
+        "proposal": {
+          "id": "335",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17759905",
+        "proposal": {
+          "id": "337",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17764325",
+        "proposal": {
+          "id": "339",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17792047",
+        "proposal": {
+          "id": "343",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17771664",
+        "proposal": {
+          "id": "344",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17792061",
+        "proposal": {
+          "id": "346",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17827688",
+        "proposal": {
+          "id": "347",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17827712",
+        "proposal": {
+          "id": "348",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17842684",
+        "proposal": {
+          "id": "349",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17842687",
+        "proposal": {
+          "id": "350",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17864526",
+        "proposal": {
+          "id": "352",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "17938990",
+        "proposal": {
+          "id": "355",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "18070843",
+        "proposal": {
+          "id": "360",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "18070850",
+        "proposal": {
+          "id": "361",
+          "__typename": "Proposal"
+        },
+        "support": false,
+        "supportDetailed": 0,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      },
+      {
+        "blockNumber": "18070860",
+        "proposal": {
+          "id": "362",
+          "__typename": "Proposal"
+        },
+        "support": true,
+        "supportDetailed": 1,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
+        },
+        "__typename": "Vote"
+      }
+    ],
+    "__typename": "Noun"
+  }
+}
