@@ -22,16 +22,15 @@ const client = new Client({
 })
 
 const VoteHistoryQuery = gql`
-  query {
+  query VoteHistoryQuery {
     noun(id: ${NOUN_ID}) {
       id
-      votes(first: 1000) {
-        blockNumber
-        proposal {
-          id
-        }
+      votes(first: 1000, orderBy: blockTimestamp, orderDirection: desc) {
+        id
         support
-        supportDetailed
+        votes
+        blockTimestamp
+        reason
         voter {
           id
         }
@@ -42,8 +41,8 @@ const VoteHistoryQuery = gql`
 
 const main = async () => {
   const result = await client.query(VoteHistoryQuery)
-  const { data } = result
-  if (!data.noun) throw new Error('no data returned from query')
+  const { data, error } = result
+  if (error || !data) throw new Error('query error: ', error)
 
   fs.writeFileSync(
     path.join(__dirname, '..', 'data', 'vote-history.json'),

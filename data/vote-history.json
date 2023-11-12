@@ -3,1637 +3,1295 @@
     "id": "0",
     "votes": [
       {
-        "blockNumber": "13083370",
-        "proposal": {
-          "id": "1",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "13398093",
-        "proposal": {
-          "id": "10",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-362",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "57",
+        "blockTimestamp": "1693923911",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15135086",
-        "proposal": {
-          "id": "107",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-361",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "58",
+        "blockTimestamp": "1693923791",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15143765",
-        "proposal": {
-          "id": "108",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-360",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "58",
+        "blockTimestamp": "1693923707",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15143770",
-        "proposal": {
-          "id": "109",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-355",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "56",
+        "blockTimestamp": "1692329159",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13411168",
-        "proposal": {
-          "id": "11",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-352",
+        "support": false,
+        "votes": "55",
+        "blockTimestamp": "1691429111",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15143773",
-        "proposal": {
-          "id": "110",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-350",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1691165039",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15161049",
-        "proposal": {
-          "id": "111",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 2,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-349",
+        "support": true,
+        "votes": "55",
+        "blockTimestamp": "1691165003",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15168701",
-        "proposal": {
-          "id": "112",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-348",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1690984115",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15168706",
-        "proposal": {
-          "id": "113",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-347",
+        "support": false,
+        "votes": "55",
+        "blockTimestamp": "1690983827",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15168706",
-        "proposal": {
-          "id": "114",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-346",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "54",
+        "blockTimestamp": "1690553447",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15212960",
-        "proposal": {
-          "id": "116",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-343",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1690553279",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15251546",
-        "proposal": {
-          "id": "118",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-344",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "55",
+        "blockTimestamp": "1690306883",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15251546",
-        "proposal": {
-          "id": "119",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-339",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "54",
+        "blockTimestamp": "1690218167",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13474863",
-        "proposal": {
-          "id": "12",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-337",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "54",
+        "blockTimestamp": "1690164731",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15251546",
-        "proposal": {
-          "id": "120",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-335",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "55",
+        "blockTimestamp": "1690028783",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15251546",
-        "proposal": {
-          "id": "121",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-334",
+        "support": true,
+        "votes": "55",
+        "blockTimestamp": "1690028723",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15251546",
-        "proposal": {
-          "id": "122",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-331",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "55",
+        "blockTimestamp": "1690028627",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15270453",
-        "proposal": {
-          "id": "123",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-328",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "56",
+        "blockTimestamp": "1689350267",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15270453",
-        "proposal": {
-          "id": "124",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-326",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1689085775",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15271496",
-        "proposal": {
-          "id": "125",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-323",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1688903999",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15308538",
-        "proposal": {
-          "id": "126",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-322",
         "support": true,
-        "supportDetailed": 1,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "15391995",
-        "proposal": {
-          "id": "132",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "votes": "55",
+        "blockTimestamp": "1688903963",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15397681",
-        "proposal": {
-          "id": "133",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-320",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "55",
+        "blockTimestamp": "1688903903",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15478752",
-        "proposal": {
-          "id": "134",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-319",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "54",
+        "blockTimestamp": "1688746871",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15478752",
-        "proposal": {
-          "id": "135",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-317",
         "support": true,
-        "supportDetailed": 1,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "15478752",
-        "proposal": {
-          "id": "136",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "votes": "54",
+        "blockTimestamp": "1687980779",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15518069",
-        "proposal": {
-          "id": "137",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-316",
         "support": true,
-        "supportDetailed": 1,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "15518069",
-        "proposal": {
-          "id": "138",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "votes": "54",
+        "blockTimestamp": "1687897415",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13524787",
-        "proposal": {
-          "id": "14",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-314",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "53",
+        "blockTimestamp": "1687797803",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15553863",
-        "proposal": {
-          "id": "140",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-313",
+        "support": false,
+        "votes": "53",
+        "blockTimestamp": "1687529771",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15554956",
-        "proposal": {
-          "id": "141",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-312",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "59",
+        "blockTimestamp": "1687529723",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15582559",
-        "proposal": {
-          "id": "142",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-311",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "59",
+        "blockTimestamp": "1687529699",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15583018",
-        "proposal": {
-          "id": "143",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-310",
+        "support": false,
+        "votes": "59",
+        "blockTimestamp": "1687529483",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15650162",
-        "proposal": {
-          "id": "144",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-307",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "58",
+        "blockTimestamp": "1687095227",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15650166",
-        "proposal": {
-          "id": "145",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-306",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "58",
+        "blockTimestamp": "1686676175",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15664852",
-        "proposal": {
-          "id": "147",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-304",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "58",
+        "blockTimestamp": "1686675143",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13577602",
-        "proposal": {
-          "id": "15",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-303",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "58",
+        "blockTimestamp": "1686323471",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15699041",
-        "proposal": {
-          "id": "150",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-302",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "57",
+        "blockTimestamp": "1686140507",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15697591",
-        "proposal": {
-          "id": "151",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-301",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "57",
+        "blockTimestamp": "1686140483",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15744862",
-        "proposal": {
-          "id": "152",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-300",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "57",
+        "blockTimestamp": "1685852495",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15778563",
-        "proposal": {
-          "id": "154",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-299",
+        "support": false,
+        "votes": "57",
+        "blockTimestamp": "1685852399",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15797042",
-        "proposal": {
-          "id": "155",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-298",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "57",
+        "blockTimestamp": "1685852351",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15797046",
-        "proposal": {
-          "id": "156",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-297",
+        "support": false,
+        "votes": "56",
+        "blockTimestamp": "1685136491",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13577609",
-        "proposal": {
-          "id": "16",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-296",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "56",
+        "blockTimestamp": "1685136491",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15819279",
-        "proposal": {
-          "id": "161",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-295",
+        "support": false,
+        "votes": "56",
+        "blockTimestamp": "1685136491",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15819284",
-        "proposal": {
-          "id": "162",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-292",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1684339583",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13641158",
-        "proposal": {
-          "id": "17",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-291",
+        "support": false,
+        "votes": "55",
+        "blockTimestamp": "1684339523",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13641167",
-        "proposal": {
-          "id": "18",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-289",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1684165415",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13678256",
-        "proposal": {
-          "id": "19",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-288",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1684165235",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13117159",
-        "proposal": {
-          "id": "2",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-287",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1684165187",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13696685",
-        "proposal": {
-          "id": "20",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-286",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1684165127",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13705551",
-        "proposal": {
-          "id": "21",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-285",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "55",
+        "blockTimestamp": "1684165031",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13712454",
-        "proposal": {
-          "id": "22",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-284",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "54",
+        "blockTimestamp": "1683658103",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13743917",
-        "proposal": {
-          "id": "23",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-282",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "54",
+        "blockTimestamp": "1683601007",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13753604",
-        "proposal": {
-          "id": "24",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-279",
+        "support": true,
+        "votes": "54",
+        "blockTimestamp": "1683468659",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13753626",
-        "proposal": {
-          "id": "25",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-278",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "54",
+        "blockTimestamp": "1683081287",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13762192",
-        "proposal": {
-          "id": "26",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-277",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "54",
+        "blockTimestamp": "1683081263",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13778325",
-        "proposal": {
-          "id": "27",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-276",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "53",
+        "blockTimestamp": "1683081215",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13824494",
-        "proposal": {
-          "id": "28",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-274",
+        "support": false,
+        "votes": "53",
+        "blockTimestamp": "1682890343",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13888889",
-        "proposal": {
-          "id": "29",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-272",
+        "support": false,
+        "votes": "53",
+        "blockTimestamp": "1682888159",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13169263",
-        "proposal": {
-          "id": "3",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-271",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "53",
+        "blockTimestamp": "1682888123",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13915381",
-        "proposal": {
-          "id": "30",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-270",
+        "support": false,
+        "votes": "53",
+        "blockTimestamp": "1682475791",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13967242",
-        "proposal": {
-          "id": "31",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-269",
+        "support": false,
+        "votes": "52",
+        "blockTimestamp": "1682255207",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13967251",
-        "proposal": {
-          "id": "32",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-268",
+        "support": false,
+        "votes": "52",
+        "blockTimestamp": "1681850231",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13999493",
-        "proposal": {
-          "id": "33",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-266",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "52",
+        "blockTimestamp": "1681825427",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14004431",
-        "proposal": {
-          "id": "34",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-265",
+        "support": false,
+        "votes": "51",
+        "blockTimestamp": "1681306127",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14090341",
-        "proposal": {
-          "id": "36",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-264",
+        "support": false,
+        "votes": "51",
+        "blockTimestamp": "1680965207",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14160368",
-        "proposal": {
-          "id": "37",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-263",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "51",
+        "blockTimestamp": "1680965087",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14214112",
-        "proposal": {
-          "id": "38",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-261",
+        "support": false,
+        "votes": "51",
+        "blockTimestamp": "1680965003",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14226761",
-        "proposal": {
-          "id": "39",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-262",
+        "support": false,
+        "votes": "51",
+        "blockTimestamp": "1680702515",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13182019",
-        "proposal": {
-          "id": "4",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-260",
+        "support": false,
+        "votes": "50",
+        "blockTimestamp": "1680618791",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14298555",
-        "proposal": {
-          "id": "40",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-259",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "50",
+        "blockTimestamp": "1680535655",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14348571",
-        "proposal": {
-          "id": "42",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-258",
+        "support": false,
+        "votes": "50",
+        "blockTimestamp": "1680273191",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14385655",
-        "proposal": {
-          "id": "43",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-257",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "50",
+        "blockTimestamp": "1679922467",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14430483",
-        "proposal": {
-          "id": "44",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-256",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "49",
+        "blockTimestamp": "1679922395",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14469963",
-        "proposal": {
-          "id": "45",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-250",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "49",
+        "blockTimestamp": "1679700119",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14470322",
-        "proposal": {
-          "id": "46",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-254",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "49",
+        "blockTimestamp": "1679579855",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14526703",
-        "proposal": {
-          "id": "48",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-253",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "49",
+        "blockTimestamp": "1679579807",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14526815",
-        "proposal": {
-          "id": "49",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-252",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "49",
+        "blockTimestamp": "1679579783",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13257043",
-        "proposal": {
-          "id": "5",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-249",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1678746443",
+        "reason": "⌐◨-◨",
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14578273",
-        "proposal": {
-          "id": "52",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-248",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "48",
+        "blockTimestamp": "1678740107",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14578293",
-        "proposal": {
-          "id": "53",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-245",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "47",
+        "blockTimestamp": "1678219667",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14610111",
-        "proposal": {
-          "id": "57",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-244",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "47",
+        "blockTimestamp": "1678219607",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14610431",
-        "proposal": {
-          "id": "58",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-242",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "47",
+        "blockTimestamp": "1678134011",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14610457",
-        "proposal": {
-          "id": "59",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-240",
         "support": false,
-        "supportDetailed": 0,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "13271922",
-        "proposal": {
-          "id": "6",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "14625145",
-        "proposal": {
-          "id": "60",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "votes": "47",
+        "blockTimestamp": "1677962027",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14625150",
-        "proposal": {
-          "id": "61",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-241",
+        "support": false,
+        "votes": "47",
+        "blockTimestamp": "1677889295",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14641786",
-        "proposal": {
-          "id": "62",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-238",
+        "support": false,
+        "votes": "46",
+        "blockTimestamp": "1676855927",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14661533",
-        "proposal": {
-          "id": "63",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-229",
+        "support": false,
+        "votes": "46",
+        "blockTimestamp": "1676479367",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14661566",
-        "proposal": {
-          "id": "64",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-228",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "46",
+        "blockTimestamp": "1676409359",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14661696",
-        "proposal": {
-          "id": "65",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-232",
+        "support": false,
+        "votes": "46",
+        "blockTimestamp": "1676398043",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14661731",
-        "proposal": {
-          "id": "67",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-231",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "46",
+        "blockTimestamp": "1676395643",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14682603",
-        "proposal": {
-          "id": "68",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-237",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "46",
+        "blockTimestamp": "1676395139",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14682628",
-        "proposal": {
-          "id": "69",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-236",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "46",
+        "blockTimestamp": "1676395091",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14737206",
-        "proposal": {
-          "id": "71",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-226",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "45",
+        "blockTimestamp": "1676215979",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14745788",
-        "proposal": {
-          "id": "72",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-227",
         "support": false,
-        "supportDetailed": 2,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "14757836",
-        "proposal": {
-          "id": "73",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "14789698",
-        "proposal": {
-          "id": "75",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "votes": "45",
+        "blockTimestamp": "1675826471",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14811695",
-        "proposal": {
-          "id": "77",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-222",
+        "support": false,
+        "votes": "45",
+        "blockTimestamp": "1675642211",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14817961",
-        "proposal": {
-          "id": "78",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-221",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "45",
+        "blockTimestamp": "1675642163",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13316579",
-        "proposal": {
-          "id": "8",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-218",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "44",
+        "blockTimestamp": "1675205111",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14824889",
-        "proposal": {
-          "id": "81",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-215",
         "support": false,
-        "supportDetailed": 0,
-        "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
-          "__typename": "Delegate"
-        },
-        "__typename": "Vote"
-      },
-      {
-        "blockNumber": "14824900",
-        "proposal": {
-          "id": "82",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "votes": "44",
+        "blockTimestamp": "1674663071",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14833234",
-        "proposal": {
-          "id": "83",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-216",
+        "support": false,
+        "votes": "44",
+        "blockTimestamp": "1674618623",
+        "reason": "We do not agree that Nouns DAO has a need for secret voting and believe secret voting in Nouns DAO would be detrimental to its culture and brand.\n\nThe only justification for this mandated round appears to be research for Nouns DAO. As we disagree with the need for this research, we don’t believe in directing funding to it.\n\nThere may be other groups which benefit from this research, and we welcome a new proposal that outlines their need and requests appropriate funding. ",
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14881919",
-        "proposal": {
-          "id": "85",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-208",
+        "support": false,
+        "votes": "48",
+        "blockTimestamp": "1674604775",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14899076",
-        "proposal": {
-          "id": "87",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-211",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "44",
+        "blockTimestamp": "1674569327",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14929840",
-        "proposal": {
-          "id": "89",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-210",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "48",
+        "blockTimestamp": "1674390539",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "13350736",
-        "proposal": {
-          "id": "9",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-209",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1674233519",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14939681",
-        "proposal": {
-          "id": "90",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-206",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1674163367",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14939697",
-        "proposal": {
-          "id": "91",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-207",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1674076151",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14939690",
-        "proposal": {
-          "id": "92",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-205",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1673875571",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14959499",
-        "proposal": {
-          "id": "93",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-204",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "48",
+        "blockTimestamp": "1673875511",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "14963357",
-        "proposal": {
-          "id": "95",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-203",
+        "support": false,
+        "votes": "49",
+        "blockTimestamp": "1673875475",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15009510",
-        "proposal": {
-          "id": "97",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-202",
+        "support": false,
+        "votes": "49",
+        "blockTimestamp": "1673875439",
+        "reason": null,
         "voter": {
-          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15834854",
-        "proposal": {
-          "id": "163",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-201",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1673230895",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1641,13 +1299,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15849626",
-        "proposal": {
-          "id": "164",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-199",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1673053139",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1655,13 +1311,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15851110",
-        "proposal": {
-          "id": "165",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-200",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "48",
+        "blockTimestamp": "1673015411",
+        "reason": "devcarrot: I recommend we vote against this. The main issue I have is that this creates a man-in-the-middle attack vector either by whomever is operating the platform or any defects in the software that's used and a false sense of security. Skiff may be interesting as it encrypts skiff-to-skiff emails (in this case emails sent between `@nouns.email` users) and incoming emails at rest but it doesn't magically grant the user the ability to have encrypted communications with \"all emails sent and received\"; emails from, to, and including non-Skiff users are still sent in plaintext. I believe the prop made this detail ambiguous at best.\n\nI'm also concerned around a centralized location for Nouners' emails, this would be an attractive target for attackers.\n\nI wish the Skiff team the best and would personally be interested in playing with their platform, but I don't believe this proposal should pass due to the ambiguity around privacy.",
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1669,13 +1323,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15863077",
-        "proposal": {
-          "id": "166",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-198",
+        "support": false,
+        "votes": "42",
+        "blockTimestamp": "1672852523",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1683,13 +1335,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15921113",
-        "proposal": {
-          "id": "167",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-197",
+        "support": true,
+        "votes": "42",
+        "blockTimestamp": "1672261511",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1697,13 +1347,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15947966",
-        "proposal": {
-          "id": "168",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-196",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "41",
+        "blockTimestamp": "1671737087",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1711,13 +1359,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15969841",
-        "proposal": {
-          "id": "169",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-195",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "41",
+        "blockTimestamp": "1671730199",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1725,13 +1371,23 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16019966",
-        "proposal": {
-          "id": "171",
-          "__typename": "Proposal"
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-191",
+        "support": false,
+        "votes": "58",
+        "blockTimestamp": "1671718391",
+        "reason": null,
+        "voter": {
+          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-194",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "39",
+        "blockTimestamp": "1671639347",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1739,13 +1395,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "15999936",
-        "proposal": {
-          "id": "172",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-193",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "39",
+        "blockTimestamp": "1671638999",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1753,13 +1407,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16028939",
-        "proposal": {
-          "id": "173",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-192",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "58",
+        "blockTimestamp": "1671638579",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1767,13 +1419,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16058905",
-        "proposal": {
-          "id": "174",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-190",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "61",
+        "blockTimestamp": "1671638099",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1781,13 +1431,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16083887",
-        "proposal": {
-          "id": "175",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-189",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "61",
+        "blockTimestamp": "1671506267",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1795,13 +1443,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16108960",
-        "proposal": {
-          "id": "177",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-188",
+        "support": false,
+        "votes": "61",
+        "blockTimestamp": "1671506099",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1809,13 +1455,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16148137",
-        "proposal": {
-          "id": "178",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-182",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "62",
+        "blockTimestamp": "1670875751",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1823,13 +1467,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16127067",
-        "proposal": {
-          "id": "179",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-185",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "60",
+        "blockTimestamp": "1670855111",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1837,13 +1479,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16127067",
-        "proposal": {
-          "id": "180",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-184",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "60",
+        "blockTimestamp": "1670694347",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1851,13 +1491,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16170913",
-        "proposal": {
-          "id": "182",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-183",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "60",
+        "blockTimestamp": "1670622419",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1865,13 +1503,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16149922",
-        "proposal": {
-          "id": "183",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-178",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "61",
+        "blockTimestamp": "1670600915",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1879,13 +1515,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16155884",
-        "proposal": {
-          "id": "184",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-180",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "62",
+        "blockTimestamp": "1670345555",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1893,13 +1527,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16169207",
-        "proposal": {
-          "id": "185",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-179",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "61",
+        "blockTimestamp": "1670345555",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1907,13 +1539,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16223151",
-        "proposal": {
-          "id": "188",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 2,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-177",
+        "support": true,
+        "votes": "61",
+        "blockTimestamp": "1670126891",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1921,13 +1551,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16223165",
-        "proposal": {
-          "id": "189",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-175",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "57",
+        "blockTimestamp": "1669824431",
+        "reason": "Seneca: \nWhile I like the enthusiasm and appreciate the team's effort to put this forth, the proposed outcomes feel vague. If the end goal is to get builders funded - I'd much rather see the team pursue a small amount of funding to run their own grants program. This way, it is much easier to measure success while also allowing the team to find/consult with builders.\n\n9999:\nThe team is passionate and well placed to execute on this idea. I think it’s reasonable to get funds to test out a consultancy/incubator on a small scale, but I dislike subsidizing this entirely for 3 months when there’s an obvious business model. \nIn general, I am for the consultancy model and believe it can bring qualified builders to the DAO. To that end, the market has the ability to signal whether the PropBox idea/team/approach works and funding to the extent requested would distort this process.\nIn addition to reducing the timeline and funding amount, I would recommend voting for this proposal if it had target metrics: 1 month, interface with 10-15 builders, target 1-2 amazing on-chain proposal, include a “finders fee” to subsidize the funding gap.\n\ndevcarrot:\nI agree with the other Nounders that there should be a market for this type of advising that takes the form of a \"finders fee\" or \"tip\". I would like to see this proposal changed to either include more discrete objectives or, as Aubtoshi mentioned, expanded to be a source of earlier funding. During the Agora debate it was brought up that a place for builders and proposal authors are able to gain some clout, PropBox could be a way to incubate those with potential and build better proposals along the way.",
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1935,13 +1563,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16234103",
-        "proposal": {
-          "id": "190",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-174",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "53",
+        "blockTimestamp": "1669522979",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1949,13 +1575,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16240765",
-        "proposal": {
-          "id": "191",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 2,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-173",
+        "support": true,
+        "votes": "53",
+        "blockTimestamp": "1669161131",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1963,13 +1587,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16234143",
-        "proposal": {
-          "id": "192",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-171",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "56",
+        "blockTimestamp": "1669052711",
+        "reason": "9999: I appreciate the transparent approach this pod is taking for reviewing and publishing the result of their decisions. However, I am dismayed at the on-going cost to administer the pod. I understand that getting systems and processes up and running requires additional time, and that these management fees take this into account, but hopefully once processes are streamlined this pod will take less human time to administer and the costs can be reduced. I look forward to seeing what projects DCS finds and funds.\n\ndevcarrot: I propose we vote yes on the DCS pod. I’m excited to see more methods of getting funded and especially within the Prop House/NSFW to Proposal gap. The ask seems like a reasonable amount and would like to see additional funding of the group if they’re able to fund good projects. I share 9999’s concerns but will be good to increase our sample size and experiment with the model more.",
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1977,13 +1599,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16234178",
-        "proposal": {
-          "id": "193",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-172",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "55",
+        "blockTimestamp": "1668811139",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -1991,13 +1611,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16234207",
-        "proposal": {
-          "id": "194",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-169",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "52",
+        "blockTimestamp": "1668447767",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -2005,13 +1623,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16241744",
-        "proposal": {
-          "id": "195",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-168",
+        "support": false,
+        "votes": "53",
+        "blockTimestamp": "1668184091",
+        "reason": "4156: \n\n1. i don’t love the precedent it sets around managing treasury funds. i see no reason that withdrawing 500 ETH from the treasury and converting it to 750k USDC in advance is helpful in procuring a partnership with mr. beast. it exposes the treasury to volatility risk for something that is low probability, and placing this much capital in a 2/3 multisig without a compelling reason to do so is a bad practice. \n\n2. while this proposal increases the probability that people will attempt to form partnerships with mr. beast, it also decreases the probability that he will accept these partnership offers. in the worst case, the large bounty on solicitation could lead to undesirable sales tactics, and preclude the possibility of future partnerships. guerrilla tactics are helpful when the dao and its potential partners have little to lose, but will be less effective when attempting to partner with celebrities with large audiences who are sensitive to reputation risk, especially when the offer is coming from a strange entity like a DAO. a gentle introduction from a trusted mr. beast associate is probably the most likely road to a productive and long term relationship \n\n9999: \n\nIt's exciting to see a different proposal format and new ideas for engaging people outside of the community. I think the proposal specifics are a bit too much, too fast, but feel there's potential that some form of this works on a smaller scale. ",
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -2019,13 +1635,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16242317",
-        "proposal": {
-          "id": "196",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-167",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "52",
+        "blockTimestamp": "1667859863",
+        "reason": "devcarrot:\nI recommend we vote No on this proposal because Nouns Builder is early in its lifecycle and I haven't seen much firm information on the charter or direction for Nouns Builder DAO in regards to what its treasury should be used for aside from generalize-able Nounish tooling. At the same time, the new Nouns Builder DAO would have a risk of fund extraction. Even though a veto power exists, this power comes with a coordination cost if secured correctly. Having a large \"imbalance\" between the auction proceeds and the DAO's treasury early on in the process feels dangerous to me.\n\nI'd be amenable if this were a smaller initial seed, the NounsDAO were to follow on by amplifying proposals/prop-house rounds/grant pools/etc. after the Nouns Builder DAO is formed, or the NounsDAO were to purchase Nouns Builder DAO votes during the auction.\n\n\n9999:\nThanks to Zora for effort and dedication to building with Nouns. I’m voting against because I feel this proposal and Builder DAO itself need refinements before an ask of this size. My concerns are these:\n\nIf this tool truly needs to be a DAO the market will signal as such using the auction price of its governing NFTs. Just like all other Nounish DAOs, Builder should grow its community and treasury from natural demand and develop its ecosystem with people who understand its vision.\n\nIf the tool is not meant to be a DAO, then with no proven track-record, the ask for 1000ETH to jump-start demand is overkill. All other large scale, long-term projects/pods have started small and demonstrated demand before asking for outsized funding (See [Prop House Protocol: Public Infrastructure by Nouns DAO](https://discourse.nouns.wtf/t/prop-house-protocol-public-infrastructure-by-nouns-dao/1594) as cited in this proposal). Builder currently has no metrics to match the size of this ask.\n\nThe Zora team should decide which approach to take. If the former, it doesn’t make sense to come to Nouns DAO for a treasury injection. If the latter, the project should first gather momentum before an ask of this size can be considered a hell yes. Thanks again.",
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -2033,13 +1647,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16285826",
-        "proposal": {
-          "id": "197",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-166",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "50",
+        "blockTimestamp": "1667159411",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -2047,13 +1659,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16334852",
-        "proposal": {
-          "id": "198",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-165",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "51",
+        "blockTimestamp": "1667015027",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -2061,13 +1671,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16351477",
-        "proposal": {
-          "id": "199",
-          "__typename": "Proposal"
-        },
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-164",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "51",
+        "blockTimestamp": "1666997099",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -2075,13 +1683,11 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16348347",
-        "proposal": {
-          "id": "200",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05-163",
+        "support": true,
+        "votes": "31",
+        "blockTimestamp": "1666818719",
+        "reason": null,
         "voter": {
           "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
           "__typename": "Delegate"
@@ -2089,1513 +1695,1393 @@
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16366219",
-        "proposal": {
-          "id": "201",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-162",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "52",
+        "blockTimestamp": "1666630607",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16419626",
-        "proposal": {
-          "id": "202",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-161",
+        "support": true,
+        "votes": "50",
+        "blockTimestamp": "1666630547",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16419629",
-        "proposal": {
-          "id": "203",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-156",
+        "support": true,
+        "votes": "49",
+        "blockTimestamp": "1666362143",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16419632",
-        "proposal": {
-          "id": "204",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-155",
+        "support": true,
+        "votes": "49",
+        "blockTimestamp": "1666362095",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16419637",
-        "proposal": {
-          "id": "205",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-154",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "51",
+        "blockTimestamp": "1666139159",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16443506",
-        "proposal": {
-          "id": "206",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-152",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "51",
+        "blockTimestamp": "1665732551",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16436282",
-        "proposal": {
-          "id": "207",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-150",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "49",
+        "blockTimestamp": "1665179927",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16480109",
-        "proposal": {
-          "id": "208",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-151",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "49",
+        "blockTimestamp": "1665162371",
+        "reason": "We like the idea of NSFW as an additional, nimble method to distribute funding from the Nouns DAO treasury. So far, the use of funds has been productive for the ecosystem, however we're concerned that the level of accountability and transparency has not scaled with the amount of funding it has received.\n\nPods should operate as minimum viable decentralized entities, with multiple members who are voicing opinions and having an impact on outcomes. NSFW is currently not structured this way. We want to ensure community projects get the benefit of a diversity of opinions and will vote to fund NSFW when there are multiple members actively involved with making decisions.",
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16449330",
-        "proposal": {
-          "id": "209",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-147",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1664766599",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16462344",
-        "proposal": {
-          "id": "210",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-145",
+        "support": true,
+        "votes": "48",
+        "blockTimestamp": "1664589323",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16477168",
-        "proposal": {
-          "id": "211",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-144",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1664589275",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16484942",
-        "proposal": {
-          "id": "215",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-143",
+        "support": true,
+        "votes": "49",
+        "blockTimestamp": "1663778711",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16481262",
-        "proposal": {
-          "id": "216",
-          "__typename": "Proposal"
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-142",
+        "support": true,
+        "votes": "49",
+        "blockTimestamp": "1663773131",
+        "reason": null,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-141",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "49",
+        "blockTimestamp": "1663437707",
+        "reason": "The concept of mix and match Noun figures is innovative and we are thankful for the iterations on the initial prototype. However, we continue to find these toys aesthetically difficult and do not think they are a good mass-market first impression for Nouns. We don't agree with using them as promotions or giveaways, don't agree with any digital tie-in (POAP, NFT/PFP, AR, metaverse wearable, etc), don't agree with additional marketing or forced engagement after purchase. We hope there is an opportunity to work on future versions of the mix and match concept, but unless we think the toys are awesome, we cannot justify or endorse manufacturing 10,000 units.",
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16529874",
-        "proposal": {
-          "id": "218",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-140",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "49",
+        "blockTimestamp": "1663424543",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16566069",
-        "proposal": {
-          "id": "221",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-138",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "49",
+        "blockTimestamp": "1662945170",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16566073",
-        "proposal": {
-          "id": "222",
-          "__typename": "Proposal"
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-137",
+        "support": true,
+        "votes": "49",
+        "blockTimestamp": "1662945170",
+        "reason": null,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-136",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "48",
+        "blockTimestamp": "1662393736",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16613600",
-        "proposal": {
-          "id": "226",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-135",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "48",
+        "blockTimestamp": "1662393736",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16581340",
-        "proposal": {
-          "id": "227",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-134",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "48",
+        "blockTimestamp": "1662393736",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16629606",
-        "proposal": {
-          "id": "228",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-133",
+        "support": false,
+        "votes": "47",
+        "blockTimestamp": "1661271930",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16635406",
-        "proposal": {
-          "id": "229",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-132",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "47",
+        "blockTimestamp": "1661194427",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16628473",
-        "proposal": {
-          "id": "231",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-126",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "45",
+        "blockTimestamp": "1660055393",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16628671",
-        "proposal": {
-          "id": "232",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-125",
+        "support": true,
+        "votes": "48",
+        "blockTimestamp": "1659557373",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16628427",
-        "proposal": {
-          "id": "236",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-124",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "46",
+        "blockTimestamp": "1659543297",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16628431",
-        "proposal": {
-          "id": "237",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-123",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "46",
+        "blockTimestamp": "1659543297",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16666446",
-        "proposal": {
-          "id": "238",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-122",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "45",
+        "blockTimestamp": "1659288004",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16757476",
-        "proposal": {
-          "id": "240",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-121",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "45",
+        "blockTimestamp": "1659288004",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16751494",
-        "proposal": {
-          "id": "241",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-120",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "45",
+        "blockTimestamp": "1659288004",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16771642",
-        "proposal": {
-          "id": "242",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-119",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "45",
+        "blockTimestamp": "1659288004",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16778687",
-        "proposal": {
-          "id": "244",
-          "__typename": "Proposal"
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-118",
+        "support": false,
+        "votes": "45",
+        "blockTimestamp": "1659288004",
+        "reason": null,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-116",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "44",
+        "blockTimestamp": "1658769143",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16778692",
-        "proposal": {
-          "id": "245",
-          "__typename": "Proposal"
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-114",
+        "support": true,
+        "votes": "41",
+        "blockTimestamp": "1658175282",
+        "reason": null,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-113",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "41",
+        "blockTimestamp": "1658175282",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16821509",
-        "proposal": {
-          "id": "248",
-          "__typename": "Proposal"
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-112",
+        "support": true,
+        "votes": "18",
+        "blockTimestamp": "1658175216",
+        "reason": null,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-111",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "18",
+        "blockTimestamp": "1658073084",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16822031",
-        "proposal": {
-          "id": "249",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-110",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "11",
+        "blockTimestamp": "1657840983",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16900589",
-        "proposal": {
-          "id": "250",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-109",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "11",
+        "blockTimestamp": "1657840969",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16890673",
-        "proposal": {
-          "id": "252",
-          "__typename": "Proposal"
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-108",
+        "support": true,
+        "votes": "10",
+        "blockTimestamp": "1657840901",
+        "reason": null,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-107",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "10",
+        "blockTimestamp": "1657726742",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16890675",
-        "proposal": {
-          "id": "253",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-97",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "31",
+        "blockTimestamp": "1655931193",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16890679",
-        "proposal": {
-          "id": "254",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-95",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "30",
+        "blockTimestamp": "1655233844",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16918905",
-        "proposal": {
-          "id": "256",
-          "__typename": "Proposal"
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-93",
+        "support": false,
+        "votes": "30",
+        "blockTimestamp": "1655175534",
+        "reason": null,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-91",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "30",
+        "blockTimestamp": "1654882095",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16918911",
-        "proposal": {
-          "id": "257",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-92",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "30",
+        "blockTimestamp": "1654882013",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16947794",
-        "proposal": {
-          "id": "258",
-          "__typename": "Proposal"
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-90",
+        "support": true,
+        "votes": "30",
+        "blockTimestamp": "1654881798",
+        "reason": null,
+        "voter": {
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
+          "__typename": "Delegate"
         },
+        "__typename": "Vote"
+      },
+      {
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-89",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "29",
+        "blockTimestamp": "1654736699",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16969379",
-        "proposal": {
-          "id": "259",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-87",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "29",
+        "blockTimestamp": "1654286613",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16976136",
-        "proposal": {
-          "id": "260",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-85",
+        "support": true,
+        "votes": "30",
+        "blockTimestamp": "1654045185",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17004344",
-        "proposal": {
-          "id": "261",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-83",
+        "support": true,
+        "votes": "29",
+        "blockTimestamp": "1653360015",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "16982976",
-        "proposal": {
-          "id": "262",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-82",
+        "support": true,
+        "votes": "29",
+        "blockTimestamp": "1653243854",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17004349",
-        "proposal": {
-          "id": "263",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-81",
+        "support": false,
+        "votes": "29",
+        "blockTimestamp": "1653243712",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17004359",
-        "proposal": {
-          "id": "264",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-78",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "29",
+        "blockTimestamp": "1653146034",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17032224",
-        "proposal": {
-          "id": "265",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-77",
+        "support": true,
+        "votes": "28",
+        "blockTimestamp": "1653057960",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17073934",
-        "proposal": {
-          "id": "266",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-75",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "28",
+        "blockTimestamp": "1652751402",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17075965",
-        "proposal": {
-          "id": "268",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-73",
+        "support": true,
+        "votes": "28",
+        "blockTimestamp": "1652312750",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17109201",
-        "proposal": {
-          "id": "269",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-72",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "27",
+        "blockTimestamp": "1652146557",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17127406",
-        "proposal": {
-          "id": "270",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-71",
+        "support": true,
+        "votes": "27",
+        "blockTimestamp": "1652028430",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17161372",
-        "proposal": {
-          "id": "271",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-69",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "26",
+        "blockTimestamp": "1651281488",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17161375",
-        "proposal": {
-          "id": "272",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-68",
+        "support": true,
+        "votes": "26",
+        "blockTimestamp": "1651281243",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17161555",
-        "proposal": {
-          "id": "274",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-67",
+        "support": true,
+        "votes": "26",
+        "blockTimestamp": "1650998050",
+        "reason": "we love the nouncil ⌐◨-◨ ",
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17177268",
-        "proposal": {
-          "id": "276",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-65",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "26",
+        "blockTimestamp": "1650997554",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17177272",
-        "proposal": {
-          "id": "277",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-64",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "26",
+        "blockTimestamp": "1650995635",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17177274",
-        "proposal": {
-          "id": "278",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-63",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "26",
+        "blockTimestamp": "1650994932",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17209171",
-        "proposal": {
-          "id": "279",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-62",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "25",
+        "blockTimestamp": "1650726737",
+        "reason": "⌐◨-◨",
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17220068",
-        "proposal": {
-          "id": "282",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-61",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "25",
+        "blockTimestamp": "1650500454",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17224764",
-        "proposal": {
-          "id": "284",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-60",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "25",
+        "blockTimestamp": "1650500393",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17266109",
-        "proposal": {
-          "id": "285",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-59",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "26",
+        "blockTimestamp": "1650302041",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17266117",
-        "proposal": {
-          "id": "286",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-58",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "26",
+        "blockTimestamp": "1650301817",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17266122",
-        "proposal": {
-          "id": "287",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-57",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "26",
+        "blockTimestamp": "1650297777",
+        "reason": "⌐◨-◨",
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17266126",
-        "proposal": {
-          "id": "288",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-53",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "25",
+        "blockTimestamp": "1649868616",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17266141",
-        "proposal": {
-          "id": "289",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-52",
+        "support": false,
+        "votes": "25",
+        "blockTimestamp": "1649868425",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17280412",
-        "proposal": {
-          "id": "291",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-49",
         "support": false,
-        "supportDetailed": 0,
+        "votes": "25",
+        "blockTimestamp": "1649173506",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17280417",
-        "proposal": {
-          "id": "292",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-48",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "24",
+        "blockTimestamp": "1649172077",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17345940",
-        "proposal": {
-          "id": "295",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 2,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-46",
+        "support": true,
+        "votes": "24",
+        "blockTimestamp": "1648411680",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17345940",
-        "proposal": {
-          "id": "296",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-45",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "23",
+        "blockTimestamp": "1648406649",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17345940",
-        "proposal": {
-          "id": "297",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 2,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-44",
+        "support": true,
+        "votes": "23",
+        "blockTimestamp": "1647876038",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17404835",
-        "proposal": {
-          "id": "298",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-43",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "22",
+        "blockTimestamp": "1647273282",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17404839",
-        "proposal": {
-          "id": "299",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 2,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-42",
+        "support": true,
+        "votes": "21",
+        "blockTimestamp": "1646774827",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17404847",
-        "proposal": {
-          "id": "300",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-40",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "21",
+        "blockTimestamp": "1646103558",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17428463",
-        "proposal": {
-          "id": "301",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-39",
+        "support": true,
+        "votes": "19",
+        "blockTimestamp": "1645142571",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17428465",
-        "proposal": {
-          "id": "302",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-38",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "19",
+        "blockTimestamp": "1644973181",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17443475",
-        "proposal": {
-          "id": "303",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-37",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "18",
+        "blockTimestamp": "1644256078",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17472379",
-        "proposal": {
-          "id": "304",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-36",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "18",
+        "blockTimestamp": "1643321764",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17472463",
-        "proposal": {
-          "id": "306",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-34",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "17",
+        "blockTimestamp": "1642174118",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17506986",
-        "proposal": {
-          "id": "307",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-33",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "17",
+        "blockTimestamp": "1642108186",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17542778",
-        "proposal": {
-          "id": "310",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 2,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-32",
+        "support": true,
+        "votes": "16",
+        "blockTimestamp": "1641677707",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17542796",
-        "proposal": {
-          "id": "311",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-31",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "16",
+        "blockTimestamp": "1641677566",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17542798",
-        "proposal": {
-          "id": "312",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-30",
+        "support": true,
+        "votes": "15",
+        "blockTimestamp": "1640984420",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17542802",
-        "proposal": {
-          "id": "313",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-29",
+        "support": true,
+        "votes": "15",
+        "blockTimestamp": "1640630098",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17564859",
-        "proposal": {
-          "id": "314",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-28",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "13",
+        "blockTimestamp": "1639769236",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17573037",
-        "proposal": {
-          "id": "316",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-27",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "13",
+        "blockTimestamp": "1639151607",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17579924",
-        "proposal": {
-          "id": "317",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-26",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "12",
+        "blockTimestamp": "1638930584",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17643077",
-        "proposal": {
-          "id": "319",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-25",
+        "support": true,
+        "votes": "12",
+        "blockTimestamp": "1638812220",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17656000",
-        "proposal": {
-          "id": "320",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-24",
         "support": false,
-        "supportDetailed": 2,
+        "votes": "12",
+        "blockTimestamp": "1638811974",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17656005",
-        "proposal": {
-          "id": "322",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-23",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "12",
+        "blockTimestamp": "1638678392",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17656008",
-        "proposal": {
-          "id": "323",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-22",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "11",
+        "blockTimestamp": "1638242550",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17670972",
-        "proposal": {
-          "id": "326",
-          "__typename": "Proposal"
-        },
-        "support": true,
-        "supportDetailed": 1,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-21",
+        "support": false,
+        "votes": "11",
+        "blockTimestamp": "1638146284",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17692733",
-        "proposal": {
-          "id": "328",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-20",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "11",
+        "blockTimestamp": "1638024864",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17748647",
-        "proposal": {
-          "id": "331",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 2,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-19",
+        "support": true,
+        "votes": "11",
+        "blockTimestamp": "1637771598",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17748655",
-        "proposal": {
-          "id": "334",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-18",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "10",
+        "blockTimestamp": "1637263334",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17748660",
-        "proposal": {
-          "id": "335",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-17",
+        "support": true,
+        "votes": "10",
+        "blockTimestamp": "1637263229",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17759905",
-        "proposal": {
-          "id": "337",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-16",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "9",
+        "blockTimestamp": "1636399795",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17764325",
-        "proposal": {
-          "id": "339",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-15",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "9",
+        "blockTimestamp": "1636399685",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17792047",
-        "proposal": {
-          "id": "343",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-14",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "8",
+        "blockTimestamp": "1635683419",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17771664",
-        "proposal": {
-          "id": "344",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-12",
+        "support": true,
+        "votes": "7",
+        "blockTimestamp": "1635006407",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17792061",
-        "proposal": {
-          "id": "346",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-11",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "7",
+        "blockTimestamp": "1634144357",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17827688",
-        "proposal": {
-          "id": "347",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-10",
+        "support": true,
+        "votes": "7",
+        "blockTimestamp": "1633966024",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17827712",
-        "proposal": {
-          "id": "348",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-9",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "6",
+        "blockTimestamp": "1633325166",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17842684",
-        "proposal": {
-          "id": "349",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-8",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "6",
+        "blockTimestamp": "1632863535",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17842687",
-        "proposal": {
-          "id": "350",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-6",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "5",
+        "blockTimestamp": "1632264446",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17864526",
-        "proposal": {
-          "id": "352",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-5",
+        "support": true,
+        "votes": "5",
+        "blockTimestamp": "1632066776",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "17938990",
-        "proposal": {
-          "id": "355",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-4",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "3",
+        "blockTimestamp": "1631063192",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "18070843",
-        "proposal": {
-          "id": "360",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-3",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "3",
+        "blockTimestamp": "1630891848",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "18070850",
-        "proposal": {
-          "id": "361",
-          "__typename": "Proposal"
-        },
-        "support": false,
-        "supportDetailed": 0,
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-2",
+        "support": true,
+        "votes": "2",
+        "blockTimestamp": "1630197024",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"
       },
       {
-        "blockNumber": "18070860",
-        "proposal": {
-          "id": "362",
-          "__typename": "Proposal"
-        },
+        "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5-1",
         "support": true,
-        "supportDetailed": 1,
+        "votes": "2",
+        "blockTimestamp": "1629745897",
+        "reason": null,
         "voter": {
-          "id": "0x86030dbbce1c771ff6622c20455cd3619aa93c05",
+          "id": "0x2573c60a6d127755aa2dc85e342f7da2378a0cc5",
           "__typename": "Delegate"
         },
         "__typename": "Vote"

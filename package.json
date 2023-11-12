@@ -1,16 +1,15 @@
 {
   "name": "nouns-prop-sandbox",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "get-props": "node get-props.js"
+    "get-proposals": "node scripts/get-proposals.js",
+    "get-proposal-candidates": "node scripts/get-proposal-candidates.js",
+    "get-vote-history": "node scripts/get-vote-history.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@urql/core": "^4.1.4",
     "graphql": "^16.8.1"
