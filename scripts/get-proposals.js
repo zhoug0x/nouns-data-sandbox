@@ -10,9 +10,6 @@ import path from 'path'
 import { fileURLToPath } from 'url'
 import { Client, cacheExchange, fetchExchange, gql } from '@urql/core'
 
-// ~~~ toggle this flag to get all existing props vs. active props only ~~~
-const SHOULD_FETCH_ACTIVE_PROPS_ONLY = true
-
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
@@ -25,53 +22,19 @@ const AllProposalsQuery = gql`
   query AllProposalsQuery {
     proposals(first: 1000, orderBy: id, orderDirection: desc) {
       id
+      title
+      description
       proposer {
         id
       }
+      status
       startBlock
       endBlock
       proposalThreshold
       quorumVotes
-      description
-      status
-      executionETA
       createdTimestamp
       lastUpdatedTimestamp
-      votes {
-        id
-        support
-        votes
-        blockTimestamp
-        reason
-        voter {
-          id
-        }
-      }
-    }
-  }
-`
-
-const ActiveProposalsQuery = gql`
-  query ActiveProposalsQuery {
-    proposals(
-      where: { status: ACTIVE }
-      first: 1000
-      orderBy: id
-      orderDirection: desc
-    ) {
-      id
-      proposer {
-        id
-      }
-      startBlock
-      endBlock
-      proposalThreshold
-      quorumVotes
-      description
-      status
       executionETA
-      createdTimestamp
-      lastUpdatedTimestamp
       votes {
         id
         support
@@ -87,9 +50,7 @@ const ActiveProposalsQuery = gql`
 `
 
 const getProposals = async () => {
-  const result = await client.query(
-    SHOULD_FETCH_ACTIVE_PROPS_ONLY ? ActiveProposalsQuery : AllProposalsQuery
-  )
+  const result = await client.query(AllProposalsQuery)
   return result
 }
 

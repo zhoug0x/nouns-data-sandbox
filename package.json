@@ -6,8 +6,10 @@
   "scripts": {
     "start": "node index.js",
     "get-proposals": "node scripts/get-proposals.js",
+    "get-active-proposals": "node scripts/get-active-proposals.js",
     "get-proposal-candidates": "node scripts/get-proposal-candidates.js",
-    "get-vote-history": "node scripts/get-vote-history.js"
+    "get-vote-history": "node scripts/get-vote-history.js",
+    "get-all": "yarn get-proposals && yarn get-active-proposals && yarn get-proposal-candidates && yarn get-vote-history"
   },
   "license": "MIT",
   "dependencies": {
